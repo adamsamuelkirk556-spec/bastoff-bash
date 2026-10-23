@@ -1,0 +1,43 @@
+    printf '                                                                                       ____ '
+echo
+    printf '                                                                                      /    \\  '
+echo
+    printf '                                                                                     /______\\ '
+echo
+    printf '                                                                                    / ______ \\ '
+echo
+    printf '                                                                                    | |    | | '
+echo
+    printf '                                                                                    | \\____/ | '
+echo
+    printf '                                                                                    |        | '
+echo
+    printf '                                                                                    |/      \\| '
+echo
+    printf '                                                                                    |        | '
+echo
+    printf '                                                                                    |/______\\| '
+echo
+    printf '                                                                                    /________\\ '
+echo
+    printf '                                                                                   /          \\ '
+echo
+    printf '                                                                                  /____________\\ '
+echo
+    printf '                                                                                  \||/ \\||/ \||/ '
+echo
+    printf '                                                                                  (VV)  vv  (VV) '
+echo
+    printf '                                                                                   ^^   ^^   ^^  '
+echo
+
+sleep 1
+
+for ((i=1; i<=line_height; i++))
+ do
+    echo '                                                                                   ##   ##   ##                        '
+  sleep 0.08
+done
+
+clear
+
