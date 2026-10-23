@@ -53,7 +53,7 @@ sleep 1
 for ((i=1; i<=line_height; i++))
  do
     echo "                                                                                   ##   ##   ##                        "
-  sleep 0.05
+  sleep 0.08
 done
 
 clear
